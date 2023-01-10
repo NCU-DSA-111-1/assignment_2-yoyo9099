@@ -32,6 +32,7 @@ The game will end when one of the king is captured.
 –l file_name
 ```
 -l file_name: load the game record "file_name.bin"
+
 2.After the game is loaded the user can choose action by the following inputs:
 'f' for moving to next step
 'b' for moving to previous step
