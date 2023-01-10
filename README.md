@@ -4,6 +4,7 @@ gcc ../src/board.c ../src/coord.c ../src/file_processing.c ../src/main.c ../src/
 ```
 ##Useage
 **Start new game**
+
 1.Following command can start a new game:
 ```
 –n –s file_name
