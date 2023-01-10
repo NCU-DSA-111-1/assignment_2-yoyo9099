@@ -10,6 +10,7 @@ gcc ../src/board.c ../src/coord.c ../src/file_processing.c ../src/main.c ../src/
 ```
 -n: start new game
 -s file_name: game record will be saved as "file_name.bin"
+
 2.When the game starts, the following command can use
 's' for saving the game
 'q' for quitting the game
